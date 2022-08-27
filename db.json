@@ -1,0 +1,61 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      },
+      {
+        "id": 2,
+        "title": "json-server",
+        "author": "typicode"
+      },
+      {
+        "id": 3,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "username": "431",
+        "review": "abc"
+      },
+      {
+        "username": "gfdgdf",
+        "review": "gfdgfd",
+        "id": 3
+      },
+      {
+        "username": "gdfgfdgd",
+        "review": "gfdgdf",
+        "id": 4
+      },
+      {
+        "username": "dsad",
+        "review": "sadsadsa",
+        "id": 5
+      },
+      {
+        "username": "fg ",
+        "review": "dfg sfdg dfg dsfg dfsg sdfg sf",
+        "id": 7
+      },
+      {
+        "username": "еои й",
+        "review": "ваваз",
+        "id": 8
+      }
+    ]
+  }
